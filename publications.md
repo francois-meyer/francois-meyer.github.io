@@ -6,7 +6,7 @@ permalink: /publications/
 
 <h1>Papers</h1>
 
-* 	Challenging Distributional Models with a Conceptual Network of Philosophical Terms\
+* 	[Challenging Distributional Models with a Conceptual Network of Philosophical Terms](https://aclanthology.org/2021.naacl-main.199.pdf)\
 	Yvette Oortwijn, Jelke Bloem, Pia Sommerauer, Francois Meyer, Wei Zhou, and Antske Fokkens\
 	NAACL 2021
 
