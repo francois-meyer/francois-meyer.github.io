@@ -2,6 +2,9 @@
 layout: page
 title: About
 ---
+
+<a href="https://twitter.com/francoisrmeyer">Twitter</a> - <a href="https://www.linkedin.com/in/francoisrmeyer/">LinkedIn</a> - <a href="https://github.com/francois-meyer">GitHub</a>
+
 <img src="/images/pp.jpg" alt="drawing" width="250" style="float:right; padding: 10pt; padding-top: 5pt"/>
 
 I am a PhD student at the [University of Cape Town](https://www.uct.ac.za/), working under the supervision of [Jan Buys](http://www.janmbuys.com/) in the [Computer Science Department](http://www.sit.uct.ac.za/sit/depts/science)	 and the [HPI Research School](http://www.sit.uct.ac.za/sit/research/hpi). 
@@ -14,13 +17,13 @@ My broad research interests lie at the intersection of Natural Language Processi
 
 <h2>News</h2>
 
-<b>June 2021</b> I will be attending NAACL 2021, as well as the co-located Mexican NLP Summer School. 
+<b>June 2021</b> I attended NAACL 2021, as well as the co-located Mexican NLP Summer School. 
 
-<b>May 2021</b> I am the teaching assistant for CSC5031Z, a postgraduate course in NLP at the University of Cape Town, taught by Jan Buys.
+<b>May 2021</b> I was the teaching assistant the postgraduate NLP course at the University of Cape Town, taught by Jan Buys.
 
 <b>March 2021</b> Our paper [Challenging Distributional Models with a Conceptual Network of Philosophical Terms](https://aclanthology.org/2021.naacl-main.199.pdf) has been accepted at NAACL 2021.
 
-<b>February 2021</b> Started my PhD at the University of Cape Town!
+<b>February 2021</b> Started my PhD at the University of Cape Town as a HPI scholar!
 
 
 <b>November 2020</b> I presented our paper (work done with Martha Lewis) [Modelling Lexical Ambiguity with Density Matrices](https://www.aclweb.org/anthology/2020.conll-1.21.pdf) at CoNLL 2020.
