@@ -19,7 +19,7 @@ My broad research interests lie at the intersection of Natural Language Processi
 
 <b>June 2021</b> I attended NAACL 2021, as well as the co-located Mexican NLP Summer School. 
 
-<b>May 2021</b> I was the teaching assistant the postgraduate NLP course at the University of Cape Town, taught by Jan Buys.
+<b>May 2021</b> I was the teaching assistant for the postgraduate NLP course at the University of Cape Town, taught by Jan Buys.
 
 <b>March 2021</b> Our paper [Challenging Distributional Models with a Conceptual Network of Philosophical Terms](https://aclanthology.org/2021.naacl-main.199.pdf) has been accepted at NAACL 2021.
 
