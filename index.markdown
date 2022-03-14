@@ -17,7 +17,7 @@ My broad research interests lie at the intersection of Natural Language Processi
 
 <h2>News</h2>
 
-<b>December 2021</b> I will be attending [SACAIR 2021](https://2021.sacair.org.za/) to present my winning submission to the Nguni languages POS tagging [shared task](https://dh2021.digitalhumanities.org.za/shared-task/). 
+<b>December 2021</b> I attended [SACAIR 2021](https://2021.sacair.org.za/) to present my winning submission to the Nguni languages POS tagging [shared task](https://dh2021.digitalhumanities.org.za/shared-task/). 
 
 <b>October 2021</b> I reviewed for ICLR 2022 through the new reviewing mentorship program.
 

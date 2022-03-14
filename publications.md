@@ -6,6 +6,10 @@ permalink: /publications/
 
 <h1>Papers</h1>
 
+* 	NLAPOST2021 1st Shared Task on Part-of-Speech Tagging for Nguni Languages\
+	Franziska Pannach, Francois Meyer, Edgar Jembere, Dlamini, Sibonelo Zamokuhle\
+	*(To appear in)* Proceedings of the International Conference of the Digital Humanities Association of Southern Africa (DHASA) 2021
+
 * 	[Challenging Distributional Models with a Conceptual Network of Philosophical Terms](https://aclanthology.org/2021.naacl-main.199.pdf)\
 	Yvette Oortwijn, Jelke Bloem, Pia Sommerauer, Francois Meyer, Wei Zhou, and Antske Fokkens\
 	NAACL 2021
