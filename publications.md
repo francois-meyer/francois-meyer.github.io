@@ -6,9 +6,9 @@ permalink: /publications/
 
 <h1>Papers</h1>
 
-* 	NLAPOST2021 1st Shared Task on Part-of-Speech Tagging for Nguni Languages\
+* 	[NLAPOST2021 1st Shared Task on Part-of-Speech Tagging for Nguni Languages](https://upjournals.up.ac.za/index.php/dhasa/article/view/3865/3565)\
 	Franziska Pannach, Francois Meyer, Edgar Jembere, Dlamini, Sibonelo Zamokuhle\
-	*(To appear in)* Proceedings of the International Conference of the Digital Humanities Association of Southern Africa (DHASA) 2021
+	Proceedings of the International Conference of the Digital Humanities Association of Southern Africa (DHASA) 2021
 
 * 	[Challenging Distributional Models with a Conceptual Network of Philosophical Terms](https://aclanthology.org/2021.naacl-main.199.pdf)\
 	Yvette Oortwijn, Jelke Bloem, Pia Sommerauer, Francois Meyer, Wei Zhou, and Antske Fokkens\
@@ -18,7 +18,7 @@ permalink: /publications/
 	Francois Meyer and Martha Lewis\
 	CoNLL 2020
 
-* 	The semantics of meaning: distributional approaches for studying philosophical text\
+* 	[The semantics of meaning: distributional approaches for studying philosophical text](https://zenodo.org/record/4003511#.YrHCE9JByV4)\
 	Francois Meyer, Yvette Oortwijn, Pia Sommerauer, Jelke Bloem, Arianna Betti, and Antske Fokkens
 	Proceedings of the Network Institute Academy Assistants programme, 2019
 	
