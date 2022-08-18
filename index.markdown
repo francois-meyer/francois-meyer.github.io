@@ -15,7 +15,7 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 
 My broad research interests lie at the intersection of Natural Language Processing and Machine Learning. I am particularly interested in investigating whether deep neural networks can learn and use linguistic concepts like morphology, syntax, and compositionality.
 
-<b> Reviewing: </b> ICLR 2022, NeurIPS 2022
+<b> Reviewing (2022): </b> ICLR, NeurIPS, EMNLP
 
 <h2>News</h2>
 
