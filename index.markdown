@@ -17,15 +17,15 @@ My broad research interests lie at the intersection of Natural Language Processi
 
 <b> Reviewing (2022): </b> ICLR, NeurIPS, EMNLP
 
+<b> Teaching (2022): </b> Lecturing part of the undergraduate Java programming course (CSC1016S), teaching assistant for the postgraduate NLP course (CSC5035).
+
 <h2>News</h2>
 
-<b>July 2022</b> I will be attending the Lisbon Machine Learning School in person. 
+<b>July 2022</b> I attended the [Lisbon Machine Learning School](http://lxmls.it.pt/2022/) in person. 
 
 <b>December 2021</b> I attended [SACAIR 2021](https://2021.sacair.org.za/) to present my winning submission to the Nguni languages POS tagging [shared task](https://upjournals.up.ac.za/index.php/dhasa/article/view/3865/3565). 
 
 <b>June 2021</b> I attended NAACL 2021, as well as the co-located Mexican NLP Summer School. 
-
-<b>May 2021</b> I was the teaching assistant for the postgraduate NLP course at the University of Cape Town, taught by Jan Buys.
 
 <b>March 2021</b> Our paper [Challenging Distributional Models with a Conceptual Network of Philosophical Terms](https://aclanthology.org/2021.naacl-main.199.pdf) has been accepted at NAACL 2021.
 
