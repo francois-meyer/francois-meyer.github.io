@@ -9,7 +9,7 @@ title: About
 
 I am a PhD student at the [University of Cape Town](https://www.uct.ac.za/), working under the supervision of [Jan Buys](http://www.janmbuys.com/) in the [Computer Science Department](http://www.sit.uct.ac.za/sit/depts/science)	 and the [HPI Research School](http://www.sit.uct.ac.za/sit/research/hpi). 
 
-My project is about text generation (language modelling and machine translation) for low-resource languages. I am designing linguistically informed neural architectures that model subword segmentation to suit agglutinative languages like the Nguni languages of South Africa. 
+My project is about text generation (language modelling and machine translation) for low-resource agglutinative languages. I am designing linguistically informed, subword-driven neural models for the Nguni languages of South Africa. 
 
 Previously I completed my [masters in AI](https://www.uva.nl/en/programmes/masters/artificial-intelligence/study-programme/study-programme.html) at the [University of Amsterdam](https://www.uva.nl/en). For my thesis, supervised by [Martha Lewis](https://marthaflinderslewis.wordpress.com/), I designed neural methods that learn density matrices for words within the categorical compositional distributional ([DisCoCat](https://ncatlab.org/nlab/show/categorical+compositional+distributional+semantics)) framework. Before that
 I obtained my undergraduate degrees in Computer Science and Mathematical Statistics at [Stellenbosch University](http://www.cs.sun.ac.za/) in South Africa.
