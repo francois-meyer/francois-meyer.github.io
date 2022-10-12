@@ -6,6 +6,15 @@ permalink: /publications/
 
 <h1>Papers</h1>
 
+* 	[Subword Segmental Language Modelling for Nguni Languages](https://drive.google.com/file/d/1Qw9o2_F4KNRq3ljGxDLundtLaTJbMBhf/view?usp=sharing)\
+	Francois Meyer and Jan Buys\
+	To appear in Findings of EMNLP 2022
+
+* 	University of Cape Town's WMT22 System: Multilingual Machine Translation for\
+ Southern African Languages\
+	Khalid N. Elmadani, Francois Meyer, and Jan Buys\
+	To appear in WMT 2022
+
 * 	[NLAPOST2021 1st Shared Task on Part-of-Speech Tagging for Nguni Languages](https://upjournals.up.ac.za/index.php/dhasa/article/view/3865/3565)\
 	Franziska Pannach, Francois Meyer, Edgar Jembere, Dlamini, Sibonelo Zamokuhle\
 	Proceedings of the International Conference of the Digital Humanities Association of Southern Africa (DHASA) 2021
