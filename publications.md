@@ -6,7 +6,7 @@ permalink: /publications/
 
 <h1>Papers</h1>
 
-* 	[Subword Segmental Language Modelling for Nguni Languages](https://drive.google.com/file/d/1Qw9o2_F4KNRq3ljGxDLundtLaTJbMBhf/view?usp=sharing)\
+* 	[Subword Segmental Language Modelling for Nguni Languages](https://arxiv.org/pdf/2210.06525.pdf)\
 	Francois Meyer and Jan Buys\
 	To appear in Findings of EMNLP 2022
 

@@ -23,7 +23,7 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 
 <h2>News</h2>
 
-<b>October 2022</b> Our paper [Subword Segmental Language Modelling for Nguni Languages](https://drive.google.com/file/d/1Qw9o2_F4KNRq3ljGxDLundtLaTJbMBhf/view?usp=sharing) has been accepted at Findings of EMNLP 2022.
+<b>October 2022</b> Our paper [Subword Segmental Language Modelling for Nguni Languages](https://arxiv.org/pdf/2210.06525.pdf) has been accepted at Findings of EMNLP 2022.
 
 <b>September 2022</b> Our submission to the _WMT22 Shared Task: Large-Scale Machine Translation Evaluation for African Languages_ will be presented at the WMT workshop at EMNLP 2022. Our system is a multilingual translation model that covers 8 South African languages.
 
