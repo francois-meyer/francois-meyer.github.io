@@ -10,8 +10,8 @@ permalink: /publications/
 	Francois Meyer and Jan Buys\
 	To appear in Findings of EMNLP 2022
 
-* 	University of Cape Town's WMT22 System: Multilingual Machine Translation for\
- Southern African Languages\
+* 	[University of Cape Town's WMT22 System: Multilingual Machine Translation for\
+ Southern African Languages](https://arxiv.org/pdf/2210.11757.pdf) \
 	Khalid N. Elmadani, Francois Meyer, and Jan Buys\
 	To appear in WMT 2022
 
