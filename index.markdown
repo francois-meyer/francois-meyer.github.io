@@ -17,13 +17,15 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 
 
 
-<b> Reviewing (2022): </b> ICLR, NeurIPS, EMNLP, BlackBoxNLP
+<b> Reviewing (2022): </b> ICLR, NeurIPS, EMNLP, BlackBoxNLP, EACL
 
 <b> Teaching (2022): </b> Lecturing part of the undergraduate Java programming course (over 600 students), head teaching assistant for the postgraduate NLP course (14 students).
 
 <h2>News</h2>
 
-<b>October 2022</b> Our paper [Subword Segmental Language Modelling for Nguni Languages](https://arxiv.org/pdf/2210.06525.pdf) has been accepted at Findings of EMNLP 2022. This paper recently won the 2022 Entelect Best PhD Research Paper Award at University of Cape Town Computer Science.
+<b>December 2022</b> I am attending EMNLP in Abu Dhabi to present [Subword Segmental Language Modelling for Nguni Languages](https://arxiv.org/pdf/2210.06525.pdf) at [UM-IoS](https://induction-of-structure.github.io/emnlp2022/). Right after that I am attending the [Deep Leaning IndabaX](https://indabax.co.za/) in Pretoria, where I have been invited as a research speaker.
+
+<b>October 2022</b> Our paper [Subword Segmental Language Modelling for Nguni Languages](https://arxiv.org/pdf/2210.06525.pdf) has been accepted at Findings of EMNLP. This paper also won the Best PhD Research Paper Award at UCT CS.
 
 <b>September 2022</b> Our [submission](https://arxiv.org/pdf/2210.11757.pdf) to the _WMT22 Shared Task: Large-Scale Machine Translation Evaluation for African Languages_ will be presented at the WMT workshop at EMNLP 2022. Our system is a multilingual translation model that covers 8 South African languages.
 
