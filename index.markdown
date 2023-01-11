@@ -5,14 +5,14 @@ title: About
 
 <a href="https://twitter.com/francoisrmeyer">Twitter</a> - <a href="https://www.linkedin.com/in/francoisrmeyer/">LinkedIn</a> - <a href="https://github.com/francois-meyer">GitHub</a>
 
-<img src="/images/pp.jpg" alt="drawing" width="155" style="float:right; padding: 10pt; padding-top: 5pt"/>
+<img src="/images/pp.jpg" alt="drawing" width="200" style="float:right; padding: 10pt; padding-top: 5pt"/>
 
 I am a PhD student at the [University of Cape Town](https://www.uct.ac.za/), working under [Jan Buys](http://www.janmbuys.com/) in the [Computer Science Department](http://www.sit.uct.ac.za/sit/depts/science)	 and the [HPI Research School](http://www.sit.uct.ac.za/sit/research/hpi). 
 My project is about text generation (language modelling and machine translation) for low-resource agglutinative languages. I am designing linguistically informed, subword-driven neural models for the Nguni languages of South Africa.
 
 My broader research interest is linguistically informed NLP interpretability. I am particularly interested in investigating whether deep neural networks can learn and use concepts like morphology, syntax, and compositionality.
 
-Previously I completed my [masters in AI](https://www.uva.nl/en/programmes/masters/artificial-intelligence/study-programme/study-programme.html) at the [University of Amsterdam](https://www.uva.nl/en). For my thesis, supervised by [Martha Lewis](https://marthaflinderslewis.wordpress.com/), I designed neural methods that learn density matrices for words within the categorical compositional distributional ([DisCoCat](https://ncatlab.org/nlab/show/categorical+compositional+distributional+semantics)) framework. Before that
+Previously I completed my [masters in AI](https://www.uva.nl/en/programmes/masters/artificial-intelligence/study-programme/study-programme.html) at the [University of Amsterdam](https://www.uva.nl/en), supervised by [Martha Lewis](https://marthaflinderslewis.wordpress.com/). Before that
 I obtained my undergraduate degrees in Computer Science and Mathematical Statistics at [Stellenbosch University](http://www.cs.sun.ac.za/) in South Africa.
 
 
@@ -23,7 +23,7 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 
 <h2>News</h2>
 
-<b>December 2022</b> I attended EMNLP in Abu Dhabi and gave an invited talk at the [IndabaX](https://indabax.co.za/) in Pretoria.
+<b>December 2022</b> I attended EMNLP in Abu Dhabi. I also attended the Deep Learning [IndabaX](https://indabax.co.za/) in Pretoria, where I gave an invited talk on my PhD research and won the Best Poster Award.
 
 
 <b>October 2022</b> Our paper [Subword Segmental Language Modelling for Nguni Languages](https://arxiv.org/pdf/2210.06525.pdf) has been accepted at Findings of EMNLP. 
