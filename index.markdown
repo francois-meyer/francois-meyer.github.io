@@ -19,25 +19,20 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 
 <b> Reviewing (2022): </b> ICLR, NeurIPS, EMNLP, BlackBoxNLP, EACL
 
-<b> Teaching (2022): </b> Lecturing part of the undergraduate Java programming course (over 600 students), head teaching assistant for the postgraduate NLP course (14 students).
+<b> Teaching (2022): </b> Lectured part of the undergraduate Java programming course (over 600 students), head teaching assistant for the postgraduate NLP course (14 students).
 
 <h2>News</h2>
 
-<b>December 2022</b> I am attending EMNLP in Abu Dhabi to present [Subword Segmental Language Modelling for Nguni Languages](https://arxiv.org/pdf/2210.06525.pdf) at [UM-IoS](https://induction-of-structure.github.io/emnlp2022/). Right after that I am attending the [Deep Leaning IndabaX](https://indabax.co.za/) in Pretoria, where I have been invited as a research speaker.
+<b>December 2022</b> I attended EMNLP in Abu Dhabi and gave an invited talk at the [IndabaX](https://indabax.co.za/) in Pretoria.
 
-<b>October 2022</b> Our paper [Subword Segmental Language Modelling for Nguni Languages](https://arxiv.org/pdf/2210.06525.pdf) has been accepted at Findings of EMNLP. This paper also won the Best PhD Research Paper Award at UCT CS.
 
-<b>September 2022</b> Our [submission](https://arxiv.org/pdf/2210.11757.pdf) to the _WMT22 Shared Task: Large-Scale Machine Translation Evaluation for African Languages_ will be presented at the WMT workshop at EMNLP 2022. Our system is a multilingual translation model that covers 8 South African languages.
+<b>October 2022</b> Our paper [Subword Segmental Language Modelling for Nguni Languages](https://arxiv.org/pdf/2210.06525.pdf) has been accepted at Findings of EMNLP. 
+
+<b>September 2022</b> Our [submission](https://arxiv.org/pdf/2210.11757.pdf) to the _WMT22 Shared Task: Large-Scale Machine Translation Evaluation for African Languages_ is a multilingual translation model for 8 South African languages.
 
 <b>July 2022</b> I attended the [Lisbon Machine Learning School](http://lxmls.it.pt/2022/) in person. 
 
 <b>December 2021</b> I attended [SACAIR 2021](https://2021.sacair.org.za/) to present my winning submission to the Nguni languages POS tagging [shared task](https://upjournals.up.ac.za/index.php/dhasa/article/view/3865/3565). 
 
-<b>June 2021</b> I attended NAACL 2021, as well as the co-located Mexican NLP Summer School. 
-
-<b>March 2021</b> Our paper [Challenging Distributional Models with a Conceptual Network of Philosophical Terms](https://aclanthology.org/2021.naacl-main.199.pdf) has been accepted at NAACL 2021.
-
-<b>February 2021</b> Started my PhD at the University of Cape Town as a HPI scholar!
 
 
-<b>November 2020</b> I presented our paper (work done with Martha Lewis) [Modelling Lexical Ambiguity with Density Matrices](https://www.aclweb.org/anthology/2020.conll-1.21.pdf) at CoNLL 2020.
