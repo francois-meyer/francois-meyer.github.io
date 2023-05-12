@@ -6,6 +6,10 @@ permalink: /publications/
 
 <h1>Papers</h1>
 
+* 	[Subword Segmental Machine Translation: Unifying Segmentation and Target Sentence Generation](https://arxiv.org/pdf/2305.07005.pdf)\
+	Francois Meyer and Jan Buys\
+	Findings of ACL 2023
+
 * 	[Subword Segmental Language Modelling for Nguni Languages](https://arxiv.org/pdf/2210.06525.pdf)\
 	Francois Meyer and Jan Buys\
 	Findings of EMNLP 2022

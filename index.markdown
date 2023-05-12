@@ -23,8 +23,13 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 
 <h2>News</h2>
 
-<b>December 2022</b> I attended EMNLP in Abu Dhabi. I also attended the Deep Learning [IndabaX](https://indabax.co.za/) in Pretoria, where I gave an invited talk on my PhD research and won the Best Poster Award.
+<b>May - August 2023</b> I am currently in Kyoto, Japan doing a research internship at the [NICT Advanced Translation Technology Laboratory](https://att-astrec.nict.go.jp/en/) under [Raj Dabre](https://prajdabre.wixsite.com/prajdabre).
 
+<b>May 2023</b> Our paper [Subword Segmental Machine Translation: Unifying Segmentation and Target Sentence Generation](https://arxiv.org/pdf/2305.07005.pdf) has been accepted at Findings of ACL.
+
+<b>May 2023</b> I have been awarded the Lestrade Scholarship for the linguistic study of African languages and the University of Cape Town Vice Chancellor Research Scholarship.
+
+<b>December 2022</b> I attended EMNLP in Abu Dhabi. I also attended the Deep Learning [IndabaX](https://indabax.co.za/) in Pretoria, where I gave an invited talk on my PhD research and won the Best Poster Award.
 
 <b>October 2022</b> Our paper [Subword Segmental Language Modelling for Nguni Languages](https://arxiv.org/pdf/2210.06525.pdf) has been accepted at Findings of EMNLP. 
 
