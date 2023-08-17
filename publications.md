@@ -6,16 +6,16 @@ permalink: /publications/
 
 <h1>Papers</h1>
 
-* 	[Subword Segmental Machine Translation: Unifying Segmentation and Target Sentence Generation](https://arxiv.org/pdf/2305.07005.pdf)\
+* 	[Subword Segmental Machine Translation: Unifying Segmentation and Target Sentence Generation](https://aclanthology.org/2023.findings-acl.175.pdf)\
 	Francois Meyer and Jan Buys\
 	Findings of ACL 2023
 
-* 	[Subword Segmental Language Modelling for Nguni Languages](https://arxiv.org/pdf/2210.06525.pdf)\
+* 	[Subword Segmental Language Modelling for Nguni Languages](https://aclanthology.org/2022.findings-emnlp.494.pdf)\
 	Francois Meyer and Jan Buys\
 	Findings of EMNLP 2022
 
 * 	[University of Cape Town's WMT22 System: Multilingual Machine Translation for\
- Southern African Languages](https://arxiv.org/pdf/2210.11757.pdf) \
+ Southern African Languages](https://aclanthology.org/2022.wmt-1.101.pdf) \
 	Khalid N. Elmadani, Francois Meyer, and Jan Buys\
 	WMT 2022
 

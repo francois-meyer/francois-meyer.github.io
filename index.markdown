@@ -23,17 +23,19 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 
 <h2>News</h2>
 
-<b>May - August 2023</b> I am currently in Kyoto, Japan doing a research internship at the [NICT Advanced Translation Technology Laboratory](https://att-astrec.nict.go.jp/en/) under [Raj Dabre](https://prajdabre.wixsite.com/prajdabre).
+<b>August 2023</b> I gave an invited talk at the [NLP for Southern African Languages Workshop](https://sites.google.com/quantumleapafrica.org/nlp-compass) collocated with [COMPASS 2023](https://compass.acm.org/).
 
-<b>May 2023</b> Our paper [Subword Segmental Machine Translation: Unifying Segmentation and Target Sentence Generation](https://arxiv.org/pdf/2305.07005.pdf) has been accepted at Findings of ACL.
+<b>May - August 2023</b> I spent 3 months in Kyoto, Japan for a research internship at the [NICT Advanced Translation Technology Laboratory](https://att-astrec.nict.go.jp/en/).
+
+<b>May 2023</b> Our paper [Subword Segmental Machine Translation: Unifying Segmentation and Target Sentence Generation](https://aclanthology.org/2023.findings-acl.175.pdf) has been accepted at Findings of ACL.
 
 <b>May 2023</b> I have been awarded the Lestrade Scholarship for the linguistic study of African languages and the University of Cape Town Vice Chancellor Research Scholarship.
 
 <b>December 2022</b> I attended EMNLP in Abu Dhabi. I also attended the Deep Learning [IndabaX](https://indabax.co.za/) in Pretoria, where I gave an invited talk on my PhD research and won the Best Poster Award.
 
-<b>October 2022</b> Our paper [Subword Segmental Language Modelling for Nguni Languages](https://arxiv.org/pdf/2210.06525.pdf) has been accepted at Findings of EMNLP. 
+<b>October 2022</b> Our paper [Subword Segmental Language Modelling for Nguni Languages](ttps://aclanthology.org/2022.findings-emnlp.494.pdf) has been accepted at Findings of EMNLP. 
 
-<b>September 2022</b> Our [submission](https://arxiv.org/pdf/2210.11757.pdf) to the _WMT22 Shared Task: Large-Scale Machine Translation Evaluation for African Languages_ is a multilingual translation model for 8 South African languages.
+<b>September 2022</b> Our [submission](https://aclanthology.org/2022.wmt-1.101.pdf) to the _WMT22 Shared Task: Large-Scale Machine Translation Evaluation for African Languages_ is a multilingual translation model for 8 South African languages.
 
 <b>July 2022</b> I attended the [Lisbon Machine Learning School](http://lxmls.it.pt/2022/) in person. 
 
