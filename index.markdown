@@ -17,11 +17,15 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 
 
 
-<b> Reviewing (2022): </b> ICLR, NeurIPS, EMNLP, BlackBoxNLP, EACL
+<b> Reviewing (2022-2023): </b> EMNLP, BlackBoxNLP, EACL, ICLR, NeurIPS
 
-<b> Teaching (2022): </b> Lectured part of the undergraduate Java programming course (over 600 students), head teaching assistant for the postgraduate NLP course (14 students).
+<b> Teaching (2022-2023): </b> Lectured part of the undergraduate Java programming course (over 600 students), head teaching assistant for the postgraduate NLP course (14 students).
 
 <h2>News</h2>
+
+<b>December 2023</b> I am attending EMNLP in Singapore to present a [poster about our work on Morphological Compositional Generalisation](https://drive.google.com/file/d/1TdrAUCG0ZtpABiMriTQ6FPbGOCiE8xjT/view?usp=sharing) at the GenBench workshop.
+
+<b>September 2023</b> I have been awarded an Amazon travel scholarship to attend the [GenBench workshop](https://genbench.org/workshop/) at EMNLP 2023.
 
 <b>August 2023</b> I gave an invited talk at the [NLP for Southern African Languages Workshop](https://sites.google.com/quantumleapafrica.org/nlp-compass) collocated with [COMPASS 2023](https://compass.acm.org/).
 
