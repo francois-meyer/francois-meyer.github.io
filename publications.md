@@ -6,6 +6,15 @@ permalink: /publications/
 
 <h1>Papers</h1>
 
+* 	Triples-to-isiXhosa (T2X): Addressing the Challenges of Low-Resource Agglutinative\
+    Data-to-Text Generation\
+	Francois Meyer and Jan Buys\
+	LREC-COLING 2024
+
+* 	NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages\
+	Francois Meyer, Haiyue Song, Abhisek Chakrabarty, Jan Buys, Raj Dabre and Hideki Tanaka\
+	LREC-COLING 2024
+
 * 	[Subword Segmental Machine Translation: Unifying Segmentation and Target Sentence Generation](https://aclanthology.org/2023.findings-acl.175.pdf)\
 	Francois Meyer and Jan Buys\
 	Findings of ACL 2023

@@ -23,6 +23,14 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 
 <h2>News</h2>
 
+<b>February 2024</b> I have two papers accepted at LREC-COLING and will be in Turin, Italy to attend the conference in May.
+
+* 	*T2X: Addressing the Challenges of Low-Resource Agglutinative Data-to-Text Generation*\
+	Francois Meyer and Jan Buys
+
+* 	*NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages*\
+	Francois Meyer, Haiyue Song, Abhisek Chakrabarty, Jan Buys, Raj Dabre and Hideki Tanaka
+
 <b>December 2023</b> I am attending EMNLP in Singapore to present a [poster about our work on Morphological Compositional Generalisation](https://drive.google.com/file/d/1TdrAUCG0ZtpABiMriTQ6FPbGOCiE8xjT/view?usp=sharing) at the GenBench workshop.
 
 <b>September 2023</b> I have been awarded an Amazon travel scholarship to attend the [GenBench workshop](https://genbench.org/workshop/) at EMNLP 2023.
