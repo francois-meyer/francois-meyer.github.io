@@ -6,8 +6,12 @@ permalink: /publications/
 
 <h1>Papers</h1>
 
-* 	Triples-to-isiXhosa (T2X): Addressing the Challenges of Low-Resource Agglutinative\
-    Data-to-Text Generation\
+* 	A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation \
+	Francois Meyer and Jan Buys\
+	NAACL Findings 2024
+
+* 	[Triples-to-isiXhosa (T2X): Addressing the Challenges of Low-Resource Agglutinative\
+    Data-to-Text Generation](https://arxiv.org/pdf/2403.07567.pdf) \
 	Francois Meyer and Jan Buys\
 	LREC-COLING 2024
 

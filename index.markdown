@@ -7,25 +7,27 @@ title: About
 
 <img src="/images/pp.jpg" alt="drawing" width="200" style="float:right; padding: 10pt; padding-top: 5pt"/>
 
-I am a PhD student at the [University of Cape Town](https://www.uct.ac.za/), working under [Jan Buys](http://www.janmbuys.com/) in the [Computer Science Department](http://www.sit.uct.ac.za/sit/depts/science)	 and the [HPI Research School](http://www.sit.uct.ac.za/sit/research/hpi). 
-My project is about text generation (language modelling and machine translation) for low-resource agglutinative languages. I am designing linguistically informed, subword-driven neural models for the Nguni languages of South Africa.
+I am a PhD candidate and Lecturer (≈ Assistant Professor) at the [University of Cape Town](https://www.uct.ac.za/), working under [Jan Buys](http://www.janmbuys.com/) in the [Computer Science Department](http://www.sit.uct.ac.za/sit/depts/science). 
+My project is about text generation (language modelling, machine translation, data-to-text) for low-resource, morphologically complex languages. I am developing subword-driven neural architectures to model the agglutinative morphology of the Nguni languages of South Africa.
 
-My broader research interest is linguistically informed NLP interpretability. I am particularly interested in investigating whether deep neural networks can learn and use concepts like morphology, syntax, and compositionality.
+My broader research interests are in linguistically informed NLP interpretability. I am particularly interested in investigating whether deep neural networks can learn and use concepts like morphology, syntax, and compositionality.
 
 Previously I completed my [masters in AI](https://www.uva.nl/en/programmes/masters/artificial-intelligence/study-programme/study-programme.html) at the [University of Amsterdam](https://www.uva.nl/en), supervised by [Martha Lewis](https://marthaflinderslewis.wordpress.com/). Before that
 I obtained my undergraduate degrees in Computer Science and Mathematical Statistics at [Stellenbosch University](http://www.cs.sun.ac.za/) in South Africa.
 
 
 
-<b> Reviewing (2022-2023): </b> EMNLP, BlackBoxNLP, EACL, ICLR, NeurIPS
+<b> Reviewing (2022-2024): </b> ACL ARR, EMNLP, EACL, ICLR, NeurIPS, BlackBoxNLP, AfricaNLP
 
-<b> Teaching (2022-2023): </b> Lectured part of the undergraduate Java programming course (over 600 students), head teaching assistant for the postgraduate NLP course (14 students).
+<b> Teaching (2024): </b> CSC3022 Machine Learning for 3rd years, CSC1016 Java programming for 1st years, teaching part of the NLP masters course at the [AIMS AI for Science Masters](https://ai.aims.ac.za/)
 
 <h2>News</h2>
 
+<b>March 2024</b> Our paper *A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation* has been accepted at NAACL Findings. 
+
 <b>February 2024</b> I have two papers accepted at LREC-COLING and will be in Turin, Italy to attend the conference in May.
 
-* 	*T2X: Addressing the Challenges of Low-Resource Agglutinative Data-to-Text Generation*\
+* 	[*T2X: Addressing the Challenges of Low-Resource Agglutinative Data-to-Text Generation*](https://arxiv.org/pdf/2403.07567.pdf)\
 	Francois Meyer and Jan Buys
 
 * 	*NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages*\
