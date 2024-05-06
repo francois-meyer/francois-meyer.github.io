@@ -17,15 +17,15 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 
 
 
-<b> Reviewing (2022-2024): </b> ACL ARR, EMNLP, EACL, ICLR, NeurIPS, BlackBoxNLP, AfricaNLP
+<b> Reviewing (2022-2024): </b> ACL ARR, EMNLP, EACL, ICLR, NeurIPS, COLM, BlackBoxNLP, AfricaNLP
 
 <b> Teaching (2024): </b> CSC3022 Machine Learning for 3rd years, CSC1016 Java programming for 1st years, teaching part of the NLP masters course at the [AIMS AI for Science Masters](https://ai.aims.ac.za/)
 
 <h2>News</h2>
 
-<b>March 2024</b> Our paper *A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation* has been accepted at NAACL Findings. 
+<b>March 2024</b> Our paper [*A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation*](https://arxiv.org/pdf/2403.20157) has been accepted at NAACL Findings. I will be in Mexico City in June to present the work at NAACL.
 
-<b>February 2024</b> I have two papers accepted at LREC-COLING and will be in Turin, Italy to attend the conference in May.
+<b>February 2024</b> I have two papers accepted at LREC-COLING and will be in Turin, Italy to present the work in person.
 
 * 	[*T2X: Addressing the Challenges of Low-Resource Agglutinative Data-to-Text Generation*](https://arxiv.org/pdf/2403.07567.pdf)\
 	Francois Meyer and Jan Buys

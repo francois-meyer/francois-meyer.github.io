@@ -6,7 +6,7 @@ permalink: /publications/
 
 <h1>Papers</h1>
 
-* 	A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation \
+* 	[A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation](https://arxiv.org/pdf/2403.20157) \
 	Francois Meyer and Jan Buys\
 	NAACL Findings 2024
 
@@ -18,6 +18,10 @@ permalink: /publications/
 * 	NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages\
 	Francois Meyer, Haiyue Song, Abhisek Chakrabarty, Jan Buys, Raj Dabre and Hideki Tanaka\
 	LREC-COLING 2024
+
+* 	SubMerge: Merging Equivalent Subword Tokenizations for Subword Regularized Models in Neural Machine Translation \
+	Haiyue Song, Francois Meyer, Raj Dabre, Hideki Tanaka, Chenhui Chu, Sadao Kurohashi\
+	EAMT 2024
 
 * 	[Subword Segmental Machine Translation: Unifying Segmentation and Target Sentence Generation](https://aclanthology.org/2023.findings-acl.175.pdf)\
 	Francois Meyer and Jan Buys\
