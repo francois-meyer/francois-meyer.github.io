@@ -23,15 +23,21 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 
 <h2>News</h2>
 
-<b>March 2024</b> Our paper [*A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation*](https://arxiv.org/pdf/2403.20157) has been accepted at NAACL Findings. I will be in Mexico City in June to present the work at NAACL.
+<b>May 2024</b> I attended LREC-COLING in Turin to present a talk on [T2X](https://aclanthology.org/2024.lrec-main.1464.pdf) and a poster on [NGLUENi](https://aclanthology.org/2024.lrec-main.1071.pdf).
+
+<b>May 2024</b> Our paper [*NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages*](https://aclanthology.org/2024.lrec-main.1071.pdf) won a best paper award at the [AfricaNLP workshop](https://sites.google.com/view/africanlp2024/home) co-located with ICLR 2024.
+
+<b>March 2024</b> [*A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation*](https://arxiv.org/pdf/2403.20157) is accepted at NAACL Findings. I will be in Mexico City in June to present the work at NAACL.
 
 <b>February 2024</b> I have two papers accepted at LREC-COLING and will be in Turin, Italy to present the work in person.
 
-* 	[*T2X: Addressing the Challenges of Low-Resource Agglutinative Data-to-Text Generation*](https://arxiv.org/pdf/2403.07567.pdf)\
-	Francois Meyer and Jan Buys
+* 	[*T2X: Addressing the Challenges of Low-Resource Agglutinative Data-to-Text Generation*](https://aclanthology.org/2024.lrec-main.1464.pdf)\
+	Francois Meyer and Jan Buys\
+	[\[dataset\]](https://github.com/francois-meyer/t2x)
 
-* 	*NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages*\
-	Francois Meyer, Haiyue Song, Abhisek Chakrabarty, Jan Buys, Raj Dabre and Hideki Tanaka
+* 	[*NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages*](https://aclanthology.org/2024.lrec-main.1071.pdf)\
+	Francois Meyer, Haiyue Song, Abhisek Chakrabarty, Jan Buys, Raj Dabre and Hideki Tanaka\
+	[\[benchmark\]](https://github.com/francois-meyer/nglueni)
 
 <b>December 2023</b> I am attending EMNLP in Singapore to present a [poster about our work on Morphological Compositional Generalisation](https://drive.google.com/file/d/1TdrAUCG0ZtpABiMriTQ6FPbGOCiE8xjT/view?usp=sharing) at the GenBench workshop.
 
@@ -43,15 +49,9 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 
 <b>May 2023</b> Our paper [Subword Segmental Machine Translation: Unifying Segmentation and Target Sentence Generation](https://aclanthology.org/2023.findings-acl.175.pdf) has been accepted at Findings of ACL.
 
-<b>May 2023</b> I have been awarded the Lestrade Scholarship for the linguistic study of African languages and the University of Cape Town Vice Chancellor Research Scholarship.
-
-<b>December 2022</b> I attended EMNLP in Abu Dhabi. I also attended the Deep Learning [IndabaX](https://indabax.co.za/) in Pretoria, where I gave an invited talk on my PhD research and won the Best Poster Award.
-
 <b>October 2022</b> Our paper [Subword Segmental Language Modelling for Nguni Languages](ttps://aclanthology.org/2022.findings-emnlp.494.pdf) has been accepted at Findings of EMNLP. 
 
 <b>September 2022</b> Our [submission](https://aclanthology.org/2022.wmt-1.101.pdf) to the _WMT22 Shared Task: Large-Scale Machine Translation Evaluation for African Languages_ is a multilingual translation model for 8 South African languages.
-
-<b>July 2022</b> I attended the [Lisbon Machine Learning School](http://lxmls.it.pt/2022/) in person. 
 
 <b>December 2021</b> I attended [SACAIR 2021](https://2021.sacair.org.za/) to present my winning submission to the Nguni languages POS tagging [shared task](https://upjournals.up.ac.za/index.php/dhasa/article/view/3865/3565). 
 

@@ -11,13 +11,13 @@ permalink: /publications/
 	NAACL Findings 2024
 
 * 	[Triples-to-isiXhosa (T2X): Addressing the Challenges of Low-Resource Agglutinative\
-    Data-to-Text Generation](https://arxiv.org/pdf/2403.07567.pdf) \
+    Data-to-Text Generation](https://aclanthology.org/2024.lrec-main.1464.pdf) \
 	Francois Meyer and Jan Buys\
-	LREC-COLING 2024
+	LREC-COLING 2024 [\[data\]](https://github.com/francois-meyer/t2x)
 
-* 	NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages\
+* 	[NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages](https://aclanthology.org/2024.lrec-main.1071.pdf)\
 	Francois Meyer, Haiyue Song, Abhisek Chakrabarty, Jan Buys, Raj Dabre and Hideki Tanaka\
-	LREC-COLING 2024
+	LREC-COLING 2024 [\[data\]](https://github.com/francois-meyer/nglueni)
 
 * 	SubMerge: Merging Equivalent Subword Tokenizations for Subword Regularized Models in Neural Machine Translation \
 	Haiyue Song, Francois Meyer, Raj Dabre, Hideki Tanaka, Chenhui Chu, Sadao Kurohashi\
