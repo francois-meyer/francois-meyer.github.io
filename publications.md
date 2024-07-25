@@ -6,7 +6,7 @@ permalink: /publications/
 
 <h1>Papers</h1>
 
-* 	[A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation](https://arxiv.org/pdf/2403.20157) \
+* 	[A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation](https://aclanthology.org/2024.findings-naacl.141.pdf) \
 	Francois Meyer and Jan Buys\
 	NAACL Findings 2024
 

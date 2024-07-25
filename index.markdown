@@ -23,11 +23,13 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 
 <h2>News</h2>
 
+<b>June 2024</b> I attended NAACL in Mexico City our paper [*A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation*](https://aclanthology.org/2024.findings-naacl.141.pdf).
+
 <b>May 2024</b> I attended LREC-COLING in Turin to present a talk on [T2X](https://aclanthology.org/2024.lrec-main.1464.pdf) and a poster on [NGLUENi](https://aclanthology.org/2024.lrec-main.1071.pdf).
 
 <b>May 2024</b> Our paper [*NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages*](https://aclanthology.org/2024.lrec-main.1071.pdf) won a best paper award at the [AfricaNLP workshop](https://sites.google.com/view/africanlp2024/home) co-located with ICLR 2024.
 
-<b>March 2024</b> [*A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation*](https://arxiv.org/pdf/2403.20157) is accepted at NAACL Findings. I will be in Mexico City in June to present the work at NAACL.
+<b>March 2024</b> [*A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation*](https://aclanthology.org/2024.findings-naacl.141.pdf) is accepted at NAACL Findings. I will be in Mexico City in June to present the work at NAACL.
 
 <b>February 2024</b> I have two papers accepted at LREC-COLING and will be in Turin, Italy to present the work in person.
 
