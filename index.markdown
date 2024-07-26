@@ -23,7 +23,7 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 
 <h2>News</h2>
 
-<b>June 2024</b> I attended NAACL in Mexico City our paper [*A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation*](https://aclanthology.org/2024.findings-naacl.141.pdf).
+<b>June 2024</b> I attended NAACL in Mexico City to present our paper [*A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation*](https://aclanthology.org/2024.findings-naacl.141.pdf).
 
 <b>May 2024</b> I attended LREC-COLING in Turin to present a talk on [T2X](https://aclanthology.org/2024.lrec-main.1464.pdf) and a poster on [NGLUENi](https://aclanthology.org/2024.lrec-main.1071.pdf).
 
