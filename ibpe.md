@@ -18,6 +18,7 @@ The aim of this project is to develop a web-based interface for a custom text to
 * [BPE algorithm explained](https://huggingface.co/learn/nlp-course/en/chapter6/5)
 * [OpenAI tokenizer demo](https://platform.openai.com/tokenizer)
 * [Week 2 info: BPE efficiency](https://drive.google.com/file/d/1WenFZGIfSx0XdZ-CVdpRCutpuXUEPMXz/view?usp=sharing)
+* [Paper: Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models](https://aclanthology.org/2023.emnlp-main.614.pdf)
 
 <h2>Datasets for testing BPE</h2>
 
