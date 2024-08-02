@@ -17,6 +17,13 @@ The aim of this project is to develop a web-based interface for a custom text to
 * [Week 1 slides: Introducing the project](https://drive.google.com/file/d/171zX20xmgomXx_q7kFEXPPeFczeJ6Fdp/view?usp=sharing)
 * [BPE algorithm explained](https://huggingface.co/learn/nlp-course/en/chapter6/5)
 * [OpenAI tokenizer demo](https://platform.openai.com/tokenizer)
+* [Week 2 info: BPE efficiency](https://drive.google.com/file/d/1WenFZGIfSx0XdZ-CVdpRCutpuXUEPMXz/view?usp=sharing)
+
+<h2>Datasets for testing BPE</h2>
+
+* [WURA isiXhosa](https://drive.google.com/file/d/1OMiiVbsMs3RE3mbk_-Oc0C3XcmMQ-X9J/view?usp=sharing)
+* [WURA full](https://huggingface.co/datasets/castorini/wura)
+* [Europarl](https://www.statmt.org/europarl/)
 
 <h2>Contact</h2>
 
