@@ -4,6 +4,16 @@ title: Capstone Project
 permalink: /ibpe/
 ---
 
+<h2>Demo Information</h2>
+
+* STEP 1: Download your demo submission from Amathuba.
+* STEP 2: Download the txt files for training and tokenizing from [here](https://drive.google.com/file/d/1xJaxLAX08LfskKvcKVW78fzRRZWddc2c/view).
+* STEP 3: Start up your IBPE website/program (using the Amathuba files) on your laptop.
+* STEP 4: The client will operate the IBPE tokenizer, on your machine, testing the requirements one at a time.
+
+Please test STEPS 1--3 at home, so we don't run into any delays during the demo. If the file size constraints of Amathuba prevented you from submitting your entire program (e.g. large libraries and dependencies), just explain that your demo uses additional code bases (not code you wrote yourself) besides your Amathuba files.
+
+	
 <h2>Interactive BPE tokenizer (IBPE)</h2>
 
 
@@ -36,4 +46,4 @@ The aim of this project is to develop a web-based interface for a custom text to
 * Tutor: Thomas van Coller \
   Email: VCLTHO001@myuct.ac.za
 
-  
+
