@@ -3,11 +3,11 @@ layout: page
 title: About
 ---
 
-<a href="https://twitter.com/francoisrmeyer">Twitter</a> - <a href="https://www.linkedin.com/in/francoisrmeyer/">LinkedIn</a> - <a href="https://github.com/francois-meyer">GitHub</a>
+<a href="https://scholar.google.com/citations?user=fIipSg0AAAAJ&hl=en">Google Scholar</a> - <a href="https://twitter.com/francoisrmeyer">Twitter</a> - <a href="https://www.linkedin.com/in/francoisrmeyer/">LinkedIn</a> - <a href="https://github.com/francois-meyer">GitHub</a>
 
 <img src="/images/pp.jpg" alt="drawing" width="200" style="float:right; padding: 10pt; padding-top: 5pt"/>
 
-I am a PhD candidate and Lecturer (≈ Assistant Professor) at the [University of Cape Town](https://www.uct.ac.za/), working under [Jan Buys](http://www.janmbuys.com/) in the [Computer Science Department](http://www.sit.uct.ac.za/sit/depts/science). 
+I am a PhD candidate and Lecturer (≈ US Assistant Professor) at the [University of Cape Town](https://www.uct.ac.za/), working under [Jan Buys](http://www.janmbuys.com/) in the [Computer Science Department](http://www.sit.uct.ac.za/sit/depts/science). 
 My project is about text generation (language modelling, machine translation, data-to-text) for low-resource, morphologically complex languages. I am developing subword-driven neural architectures to model the agglutinative morphology of the Nguni languages of South Africa.
 
 My broader research interests are in linguistically informed NLP interpretability. I am particularly interested in investigating whether deep neural networks can learn and use concepts like morphology, syntax, and compositionality.
@@ -17,21 +17,20 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 
 
 
-<b> Reviewing (2022-2024): </b> ACL ARR, EMNLP, EACL, ICLR, NeurIPS, COLM, BlackBoxNLP, AfricaNLP
+<b> Reviewing (2022-2025): </b> ACL ARR, EMNLP, EACL, ICLR, NeurIPS, COLM, BlackBoxNLP, AfricaNLP
 
-<b> Teaching (2024): </b> CSC3022 Machine Learning for 3rd years, CSC1016 Java programming for 1st years, teaching part of the NLP masters course at the [AIMS AI for Science Masters](https://ai.aims.ac.za/)
+<b> Teaching (2025): </b> CSC3022F Machine Learning for 3rd years, CSC2042S Supervised Machine Learning for 2nd years, CSC1016S Java programming for 1st years, CSC4019Z Research Methods for Honours.
 
 <h2>News</h2>
 
+<b>December 2024</b> Our paper *BabyLMs for isiXhosa: Data-Efficient Language Modelling in a Low-Resource Context* is accepted to the Workshop on Language Models for
+Low-Resource Languages (LoResLM) at COLING 2025.
+
+<b>October 2024</b> I submitted my PhD thesis!
+
 <b>June 2024</b> I attended NAACL in Mexico City to present our paper [*A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation*](https://aclanthology.org/2024.findings-naacl.141.pdf).
 
-<b>May 2024</b> I attended LREC-COLING in Turin to present a talk on [T2X](https://aclanthology.org/2024.lrec-main.1464.pdf) and a poster on [NGLUENi](https://aclanthology.org/2024.lrec-main.1071.pdf).
-
-<b>May 2024</b> Our paper [*NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages*](https://aclanthology.org/2024.lrec-main.1071.pdf) won a best paper award at the [AfricaNLP workshop](https://sites.google.com/view/africanlp2024/home) co-located with ICLR 2024.
-
-<b>March 2024</b> [*A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation*](https://aclanthology.org/2024.findings-naacl.141.pdf) is accepted at NAACL Findings. I will be in Mexico City in June to present the work at NAACL.
-
-<b>February 2024</b> I have two papers accepted at LREC-COLING and will be in Turin, Italy to present the work in person.
+<b>May 2024</b> I attended LREC-COLING in Turin to present a talk on [T2X](https://aclanthology.org/2024.lrec-main.1464.pdf) and a poster on [NGLUEni](https://aclanthology.org/2024.lrec-main.1071.pdf).
 
 * 	[*T2X: Addressing the Challenges of Low-Resource Agglutinative Data-to-Text Generation*](https://aclanthology.org/2024.lrec-main.1464.pdf)\
 	Francois Meyer and Jan Buys\
@@ -41,9 +40,10 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 	Francois Meyer, Haiyue Song, Abhisek Chakrabarty, Jan Buys, Raj Dabre and Hideki Tanaka\
 	[\[benchmark\]](https://github.com/francois-meyer/nglueni)
 
-<b>December 2023</b> I am attending EMNLP in Singapore to present a [poster about our work on Morphological Compositional Generalisation](https://drive.google.com/file/d/1TdrAUCG0ZtpABiMriTQ6FPbGOCiE8xjT/view?usp=sharing) at the GenBench workshop.
 
-<b>September 2023</b> I have been awarded an Amazon travel scholarship to attend the [GenBench workshop](https://genbench.org/workshop/) at EMNLP 2023.
+<b>May 2024</b> Our paper [*NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages*](https://aclanthology.org/2024.lrec-main.1071.pdf) won a best paper award at the [AfricaNLP workshop](https://sites.google.com/view/africanlp2024/home) co-located with ICLR 2024.
+
+<b>December 2023</b> I was awarded an Amazon travel scholarship to present a [poster about our work on Morphological Compositional Generalisation](https://drive.google.com/file/d/1TdrAUCG0ZtpABiMriTQ6FPbGOCiE8xjT/view?usp=sharing) at the GenBench workshop @ EMNLP in Singapore.
 
 <b>August 2023</b> I gave an invited talk at the [NLP for Southern African Languages Workshop](https://sites.google.com/quantumleapafrica.org/nlp-compass) collocated with [COMPASS 2023](https://compass.acm.org/).
 

@@ -6,6 +6,10 @@ permalink: /publications/
 
 <h1>Papers</h1>
 
+* 	BabyLMs for isiXhosa: Data-Efficient Language Modelling in a Low-Resource Context \
+	Alexis Matzopoulos, Charl Hendriks, Hishaam Mahomed and Francois Meyer\
+	Workshop on Language Models for Low-Resource Languages @ COLING 2025
+
 * 	[A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation](https://aclanthology.org/2024.findings-naacl.141.pdf) \
 	Francois Meyer and Jan Buys\
 	NAACL Findings 2024
