@@ -6,7 +6,7 @@ permalink: /publications/
 
 <h1>Papers</h1>
 
-* 	BabyLMs for isiXhosa: Data-Efficient Language Modelling in a Low-Resource Context \
+* 	[BabyLMs for isiXhosa: Data-Efficient Language Modelling in a Low-Resource Context](https://aclanthology.org/2025.loreslm-1.19.pdf) \
 	Alexis Matzopoulos, Charl Hendriks, Hishaam Mahomed and Francois Meyer\
 	Workshop on Language Models for Low-Resource Languages @ COLING 2025
 
@@ -23,7 +23,7 @@ permalink: /publications/
 	Francois Meyer, Haiyue Song, Abhisek Chakrabarty, Jan Buys, Raj Dabre and Hideki Tanaka\
 	LREC-COLING 2024 [\[data\]](https://github.com/francois-meyer/nglueni)
 
-* 	SubMerge: Merging Equivalent Subword Tokenizations for Subword Regularized Models in Neural Machine Translation \
+* 	[SubMerge: Merging Equivalent Subword Tokenizations for Subword Regularized Models in Neural Machine Translation](https://aclanthology.org/2024.eamt-1.15.pdf) \
 	Haiyue Song, Francois Meyer, Raj Dabre, Hideki Tanaka, Chenhui Chu, Sadao Kurohashi\
 	EAMT 2024
 

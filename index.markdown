@@ -23,7 +23,7 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 
 <h2>News</h2>
 
-<b>December 2024</b> Our paper [*BabyLMs for isiXhosa: Data-Efficient Language Modelling in a Low-Resource Context*](https://arxiv.org/pdf/2501.03855) is accepted to the Workshop on Language Models for Low-Resource Languages (LoResLM) at COLING 2025.
+<b>December 2024</b> Our paper [*BabyLMs for isiXhosa: Data-Efficient Language Modelling in a Low-Resource Context*](https://aclanthology.org/2025.loreslm-1.19.pdf) is accepted to the Workshop on Language Models for Low-Resource Languages (LoResLM) at COLING 2025.
 
 <b>October 2024</b> I submitted my PhD thesis!
 
