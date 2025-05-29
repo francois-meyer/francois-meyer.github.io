@@ -7,10 +7,9 @@ title: About
 
 <img src="/images/pp.jpg" alt="drawing" width="200" style="float:right; padding: 10pt; padding-top: 5pt"/>
 
-I am a PhD candidate and Lecturer (≈ US Assistant Professor) at the [University of Cape Town](https://www.uct.ac.za/), working under [Jan Buys](http://www.janmbuys.com/) in the [Computer Science Department](http://www.sit.uct.ac.za/sit/depts/science). 
-My project is about text generation (language modelling, machine translation, data-to-text) for low-resource, morphologically complex languages. I am developing subword-driven neural architectures to model the agglutinative morphology of the Nguni languages of South Africa.
+I am a Lecturer (≈ US Assistant Professor) at the [Computer Science Department](http://www.sit.uct.ac.za/sit/depts/science) of the [University of Cape Town](https://www.uct.ac.za/) and a researcher in [UCT NLP](https://www.janmbuys.com/uctnlp/index.html). I recently finished [my PhD](https://drive.google.com/file/d/1D8OkDD5ayzPLFmElDL09CdUTVqPMj_VH/view?usp=sharing) under [Jan Buys](http://www.janmbuys.com/). My project was on subword-optimised neural text generation (language modelling, MT, data-to-text) for low-resource, morphologically complex languages. 
 
-My broader research interests are in linguistically informed NLP interpretability. I am particularly interested in investigating whether deep neural networks can learn and use concepts like morphology, syntax, and compositionality.
+My broader research interests are in low-resource NLP, data-efficient modelling, and linguistically informed interpretability.
 
 Previously I completed my [masters in AI](https://www.uva.nl/en/programmes/masters/artificial-intelligence/study-programme/study-programme.html) at the [University of Amsterdam](https://www.uva.nl/en), supervised by [Martha Lewis](https://marthaflinderslewis.wordpress.com/). Before that
 I obtained my undergraduate degrees in Computer Science and Mathematical Statistics at [Stellenbosch University](http://www.cs.sun.ac.za/) in South Africa.
@@ -22,6 +21,21 @@ I obtained my undergraduate degrees in Computer Science and Mathematical Statist
 <b> Teaching (2025): </b> CSC3022F Machine Learning for 3rd years, CSC2042S Supervised Machine Learning for 2nd years, CSC1016S Java programming for 1st years, CSC4019Z Research Methods for Honours.
 
 <h2>News</h2>
+
+<b>May 2025</b> My students and collaborators are presenting a few workhops papers at NAACL and ACL.
+
+* 	[Designing and Contextualising Probes for African Languages](https://www.arxiv.org/pdf/2505.10081)\
+	Wisdom Aduah, Francois Meyer\
+	AfricaNLP workshop @ ACL 2025
+
+* 	[Neural Morphological Tagging for Nguni Languages](https://www.arxiv.org/pdf/2505.12949)\
+	Cael Marquard, Simbarashe Mawere, Francois Meyer\
+	AfricaNLP workshop @ ACL 2025
+
+* 	[Benchmarking IsiXhosa Automatic Speech Recognition and Machine Translation for Digital Health Provision](https://aclanthology.org/2025.cl4health-1.14.pdf) \
+	Abby Blocker, Francois Meyer, Ahmed Biyabani, Joyce Mwangama, Mohammed Ishaaq Datay, Bessie Malila\
+	Workshop on Patient-Oriented Language Processing (CL4Health) @ NAACL 2025
+
 
 <b>December 2024</b> Our paper [*BabyLMs for isiXhosa: Data-Efficient Language Modelling in a Low-Resource Context*](https://aclanthology.org/2025.loreslm-1.19.pdf) is accepted to the Workshop on Language Models for Low-Resource Languages (LoResLM) at COLING 2025.
 
