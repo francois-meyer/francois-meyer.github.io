@@ -24,9 +24,16 @@ In this project, students will build a web interface that allows users to submit
 
 <h2>Resources</h2>
 
+* [Week 1 slide](https://drive.google.com/file/d/1YuvQTKxWuG4U88w9Xp8WdF6na0wHP00R/view?usp=sharing)
 * [Bloom's taxonomy](https://tips.uark.edu/using-blooms-taxonomy/)
 * [Bloominizer on Huggingface](https://huggingface.co/uw-vta/bloominzer-0.1).
 * [Huggingface tutorial](https://huggingface.co/docs/transformers/en/tasks/sequence_classification). You don't have to train or finetune a model yourself, so you can skip to [Inference](https://huggingface.co/docs/transformers/en/tasks/sequence_classification#inference). Check out other resource like [this](https://huggingface.co/docs/transformers/main/en/task_summary#text-classification) and [this](https://github.com/huggingface/transformers/issues/6849) to extract more details about model predictions (such as probabilities for each Bloom class, as opposed to only returning the 1 predicted class.)
+
+<h2>Additional reading (optional)</h2>
+
+* Intro to Transformers: [video](https://www.youtube.com/watch?v=wjZofJX0v4M&t=97s&ab_channel=3Blue1Brown), [visual guide](https://jalammar.github.io/illustrated-transformer/)
+* [Complete guide to BERT](https://towardsdatascience.com/a-complete-guide-to-bert-with-code-9f87602e4a11/)
+* [NLP textbook](https://web.stanford.edu/~jurafsky/slp3/) (see chapters 9-11) 
 
 <h2>Contact</h2>
 
