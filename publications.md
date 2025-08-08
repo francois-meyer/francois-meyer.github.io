@@ -4,7 +4,23 @@ title: Publications
 permalink: /publications/
 ---
 
-<h1>Conference Papers</h1>
+<h1>Papers</h1>
+
+* 	[Designing and Contextualising Probes for African Languages](https://www.arxiv.org/pdf/2505.10081)\
+	Wisdom Aduah, Francois Meyer\
+	AfricaNLP workshop @ ACL 2025
+
+* 	[Neural Morphological Tagging for Nguni Languages](https://www.arxiv.org/pdf/2505.12949)\
+	Cael Marquard, Simbarashe Mawere, Francois Meyer\
+	AfricaNLP workshop @ ACL 2025
+
+* 	[Benchmarking IsiXhosa Automatic Speech Recognition and Machine Translation for Digital Health Provision](https://aclanthology.org/2025.cl4health-1.14.pdf) \
+	Abby Blocker, Francois Meyer, Ahmed Biyabani, Joyce Mwangama, Mohammed Ishaaq Datay, Bessie Malila\
+	Workshop on Patient-Oriented Language Processing (CL4Health) @ NAACL 2025
+
+* 	[BabyLMs for isiXhosa: Data-Efficient Language Modelling in a Low-Resource Context](https://aclanthology.org/2025.loreslm-1.19.pdf) \
+	Alexis Matzopoulos, Charl Hendriks, Hishaam Mahomed and Francois Meyer\
+	Workshop on Language Models for Low-Resource Languages @ COLING 2025
 
 
 * 	[A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation](https://aclanthology.org/2024.findings-naacl.141.pdf) \
@@ -32,6 +48,11 @@ permalink: /publications/
 	Francois Meyer and Jan Buys\
 	Findings of EMNLP 2022
 
+* 	[University of Cape Town's WMT22 System: Multilingual Machine Translation for\
+ Southern African Languages](https://aclanthology.org/2022.wmt-1.101.pdf) \
+	Khalid N. Elmadani, Francois Meyer, and Jan Buys\
+	WMT 2022
+
 * 	[NLAPOST2021 1st Shared Task on Part-of-Speech Tagging for Nguni Languages](https://upjournals.up.ac.za/index.php/dhasa/article/view/3865/3565)\
 	Franziska Pannach, Francois Meyer, Edgar Jembere, Dlamini, Sibonelo Zamokuhle\
 	Proceedings of the International Conference of the Digital Humanities Association of Southern Africa (DHASA) 2021
@@ -44,37 +65,15 @@ permalink: /publications/
 	Francois Meyer and Martha Lewis\
 	CoNLL 2020
 
+* 	[The semantics of meaning: distributional approaches for studying philosophical text](https://zenodo.org/record/4003511#.YrHCE9JByV4)\
+	Francois Meyer, Yvette Oortwijn, Pia Sommerauer, Jelke Bloem, Arianna Betti, and Antske Fokkens
+	Proceedings of the Network Institute Academy Assistants programme, 2019
+
 *	[Learning Concept Embeddings from Temporal Data](http://www.jucs.org/jucs_24_10/learning_concept_embeddings_from/jucs_24_10_1378_1402_meyer.pdf)\
 	Francois Meyer, Brink van der Merwe, and Dirko Coetsee\
 	Journal of Universal Computer Science, 2018
 
 
-<h1>Workshop Papers</h1>
-
-* 	[Designing and Contextualising Probes for African Languages](https://www.arxiv.org/pdf/2505.10081)\
-	Wisdom Aduah, Francois Meyer\
-	AfricaNLP workshop @ ACL 2025
-
-* 	[Neural Morphological Tagging for Nguni Languages](https://www.arxiv.org/pdf/2505.12949)\
-	Cael Marquard, Simbarashe Mawere, Francois Meyer\
-	AfricaNLP workshop @ ACL 2025
-
-* 	[Benchmarking IsiXhosa Automatic Speech Recognition and Machine Translation for Digital Health Provision](https://aclanthology.org/2025.cl4health-1.14.pdf) \
-	Abby Blocker, Francois Meyer, Ahmed Biyabani, Joyce Mwangama, Mohammed Ishaaq Datay, Bessie Malila\
-	Workshop on Patient-Oriented Language Processing (CL4Health) @ NAACL 2025
-
-* 	[BabyLMs for isiXhosa: Data-Efficient Language Modelling in a Low-Resource Context](https://aclanthology.org/2025.loreslm-1.19.pdf) \
-	Alexis Matzopoulos, Charl Hendriks, Hishaam Mahomed and Francois Meyer\
-	Workshop on Language Models for Low-Resource Languages @ COLING 2025
-
-* 	[University of Cape Town's WMT22 System: Multilingual Machine Translation for\
- Southern African Languages](https://aclanthology.org/2022.wmt-1.101.pdf) \
-	Khalid N. Elmadani, Francois Meyer, and Jan Buys\
-	WMT 2022
-
-* 	[The semantics of meaning: distributional approaches for studying philosophical text](https://zenodo.org/record/4003511#.YrHCE9JByV4)\
-	Francois Meyer, Yvette Oortwijn, Pia Sommerauer, Jelke Bloem, Arianna Betti, and Antske Fokkens
-	Proceedings of the Network Institute Academy Assistants programme, 2019
 
 
 <h1>Theses</h1>
