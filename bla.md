@@ -24,7 +24,8 @@ In this project, students will build a web interface that allows users to submit
 
 <h2>Resources</h2>
 
-* [Week 1 slide](https://drive.google.com/file/d/1YuvQTKxWuG4U88w9Xp8WdF6na0wHP00R/view?usp=sharing)
+* [Week 1 slides](https://drive.google.com/file/d/1YuvQTKxWuG4U88w9Xp8WdF6na0wHP00R/view?usp=sharing)
+* [Week 2 demo](https://drive.google.com/file/d/1y410zoIz15aK8XkcaDB2gCdVPxycdhXg/view?usp=sharing)
 * [Bloom's taxonomy](https://tips.uark.edu/using-blooms-taxonomy/)
 * [Bloominizer on Huggingface](https://huggingface.co/uw-vta/bloominzer-0.1).
 * [Huggingface tutorial](https://huggingface.co/docs/transformers/en/tasks/sequence_classification). You don't have to train or finetune a model yourself, so you can skip to [Inference](https://huggingface.co/docs/transformers/en/tasks/sequence_classification#inference). Check out other resource like [this](https://huggingface.co/docs/transformers/main/en/task_summary#text-classification) and [this](https://github.com/huggingface/transformers/issues/6849) to extract more details about model predictions (such as probabilities for each Bloom class, as opposed to only returning the 1 predicted class.)
