@@ -24,6 +24,8 @@ In this project, students will build a web interface that allows users to submit
 
 <h2>Resources</h2>
 
+* [Exam template example](https://drive.google.com/file/d/1Zzp1suUrojkGOK9hZoBDrC_gle7xlifG/view?usp=sharing)
+* [Exam bloom labels](https://drive.google.com/file/d/1eKKrLmnX-_2WELy1bxQ5uYUnWB2mihEv/view?usp=sharing)
 * [Week 1 slides](https://drive.google.com/file/d/1YuvQTKxWuG4U88w9Xp8WdF6na0wHP00R/view?usp=sharing)
 * [Week 2 demo](https://drive.google.com/file/d/1y410zoIz15aK8XkcaDB2gCdVPxycdhXg/view?usp=sharing)
 * [Week 3 demo](https://drive.google.com/file/d/1Ood80JrMPUL4wnhTwi-Ff_HM_93Wig4l/view?usp=sharing)
