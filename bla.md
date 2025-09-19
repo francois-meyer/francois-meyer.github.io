@@ -24,6 +24,8 @@ In this project, students will build a web interface that allows users to submit
 
 <h2>Resources</h2>
 
+* [Marking rubric](https://docs.google.com/spreadsheets/d/1XQgJBfGgJzis4TlhE1WPSBwuMTBVHsc_/edit?usp=sharing&ouid=103923345035549233394&rtpof=true&sd=true)
+* [Exam LaTeX example](https://drive.google.com/file/d/1hQOuhTVLg7wZ8bL_bqAk2-njKH3KN_2I/view?usp=sharing)
 * [Exam template example](https://drive.google.com/file/d/1Zzp1suUrojkGOK9hZoBDrC_gle7xlifG/view?usp=sharing)
 * [Exam bloom labels](https://drive.google.com/file/d/1eKKrLmnX-_2WELy1bxQ5uYUnWB2mihEv/view?usp=sharing)
 * [Week 1 slides](https://drive.google.com/file/d/1YuvQTKxWuG4U88w9Xp8WdF6na0wHP00R/view?usp=sharing)
