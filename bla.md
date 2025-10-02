@@ -50,3 +50,5 @@ In this project, students will build a web interface that allows users to submit
 * Tutor: Conor Mckeag \
   Email: MCKCON007 at myuct dot ac dot za
 
+* [Test 1](https://drive.google.com/file/d/1cv6gtWvgC_IzQELhWwh9KvzXP3LBii4O/view?usp=sharing)
+* [Test 2](https://drive.google.com/file/d/1DXmMrIEHnsOZPXMiY1Dryt-5gzPVsrn8/view?usp=sharing)
