@@ -6,8 +6,16 @@ permalink: /publications/
 
 <h1>Papers</h1>
 
+* 	[The Learning Dynamics of Subword Segmentation for Morphologically Diverse Languages](https://arxiv.org/pdf/2511.09197)\
+	Francois Meyer and Jan Buys\
+	AACL 2025
+
+* 	[BabyBabelLM: A Multilingual Benchmark of Developmentally Plausible Training Data](https://arxiv.org/pdf/2510.10159)\
+	Jaap Jumelet, Abdellah Fourtassi, Akari Haga, Bastian Bunzeck, Bhargav Shandilya, Diana Galvan-Sosa, Faiz Ghifari Haznitrama, Francesca Padovani, Francois Meyer, Hai Hu, Julen Etxaniz, Laurent Prevot, Linyang He, María Grandury, Mila Marcheva, Negar Foroutan, Nikitas Theodoropoulos, Pouya Sadeghi, Siyuan Song, Suchir Salhan, Susana Zhou, Yurii Paniv, Ziyin Zhang, Arianna Bisazza, Alex Warstadt, Leshem Choshen \
+	arXiv October 2025
+
 * 	[Designing and Contextualising Probes for African Languages](https://www.arxiv.org/pdf/2505.10081)\
-	Wisdom Aduah, Francois Meyer\
+	Wisdom Aduah and Francois Meyer\
 	AfricaNLP workshop @ ACL 2025
 
 * 	[Neural Morphological Tagging for Nguni Languages](https://www.arxiv.org/pdf/2505.12949)\
