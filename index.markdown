@@ -16,15 +16,17 @@ I completed my PhD under [Jan Buys](http://www.janmbuys.com/) at the University 
 
 <b> Recent Reviewing (2024/2025/2026): </b> ACL ARR, NeurIPS, COLM, BlackBoxNLP, AfricaNLP
 
-<b> Teaching (2026): </b> CSC2042S Supervised Machine Learning for 2nd years, CSC3042F Deep Learning (LSTMs and Transformers) for 3rd years, CSC3043S Bayesian Networks for 3rd years, CSC1016S Java programming for 1st years, CSC4019Z Research Methods for Honours.
+<b> Teaching (2026): </b> CSC2042S Supervised Machine Learning for 2nd years, CSC3042F Deep Learning (LSTMs and Transformers) for 3rd years, CSC1016S Java programming for 1st years, CSC4019Z Research Methods for Honours.
 
 <h2>News</h2>
 
-<b>February 2026</b> I will be at EACL in Morocco to give an invited talk titled "Data-Efficient Language Modelling for Low-Resource Languages" at the [AfricaNLP workshop](https://sites.google.com/view/africanlp2026). 
+<b>June 2026</b>  MzansiLM has featured on a few news websites. Our interview with [UCT News](https://www.news.uct.ac.za/article/-2026-05-04-uct-researchers-develop-ai-model-for-11-south-african-languages) gives a good overview of the work.
 
-<b>January 2026</b> [BabyBabelLM](https://arxiv.org/pdf/2510.10159)  (+ [project website](https://babylm.github.io/babybabellm/)) is accepted to EACL. This was multi-continent collaboration to produce a benchmark of developmentally plausible data for 45 languages. I was responsible for five South African languages: isiXhosa, isiZulu, Sesotho, Sepedi, and Afrikaans.
+<b>May 2026</b> My masters student, Anri Lombard, attended LREC in Spain to present [MzansiText and MzansiLM: An Open Corpus and Decoder-Only Language Model for South African Languages](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.109.pdf).
 
+<b>March 2026</b> I attended EACL in Morocco to give an invited talk titled "Data-Efficient Language Modelling for Low-Resource Languages" at the [AfricaNLP workshop](https://sites.google.com/view/africanlp2026). 
 
+<b>January 2026</b> [BabyBabelLM](https://arxiv.org/pdf/2510.10159)  (+ [project website](https://babylm.github.io/babybabellm/)) is accepted to EACL. This was multi-continent collaboration to produce a benchmark of developmentally plausible data for 45 languages. I was responsible for five South African languages: isiXhosa, isiZulu, Sesotho, Sepedi, and Afrikaans.ß
 
 <b>December 2025</b> I attended AACL in Mumbai to present our paper [*The Learning Dynamics of Subword Segmentation for Morphologically Diverse Languages*](https://aclanthology.org/2025.ijcnlp-long.36.pdf).
 

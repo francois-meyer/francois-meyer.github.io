@@ -6,14 +6,13 @@ permalink: /publications/
 
 <h1>Papers</h1>
 
-<!-- * 	MzansiText and MzansiLM: An Open Corpus and Decoder-Only Language Model for South African Languages \
+* 	[MzansiText and MzansiLM: An Open Corpus and Decoder-Only Language Model for South African Languages](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.109.pdf) \
 	Anri M. Lombard, Temi Aina, Ethan Wolff, Elan Norvick, Sbonelo Gumede, Simbarashe Mawere, Francois Meyer and Jan Buys \
-	(to appear at LREC 2026)
- -->
+	LREC 2026
 
-* 	[BabyBabelLM: A Multilingual Benchmark of Developmentally Plausible Training Data](https://arxiv.org/pdf/2510.10159)\
+* 	[BabyBabelLM: A Multilingual Benchmark of Developmentally Plausible Training Data](https://aclanthology.org/2026.eacl-long.152.pdf)\
 	Jaap Jumelet, Abdellah Fourtassi, Akari Haga, Bastian Bunzeck, Bhargav Shandilya, Diana Galvan-Sosa, Faiz Ghifari Haznitrama, Francesca Padovani, Francois Meyer, Hai Hu, Julen Etxaniz, Laurent Prevot, Linyang He, María Grandury, Mila Marcheva, Negar Foroutan, Nikitas Theodoropoulos, Pouya Sadeghi, Siyuan Song, Suchir Salhan, Susana Zhou, Yurii Paniv, Ziyin Zhang, Arianna Bisazza, Alex Warstadt, Leshem Choshen \
-	(to appear at EACL 2026)
+	EACL 2026
 
 * 	[The Learning Dynamics of Subword Segmentation for Morphologically Diverse Languages](https://aclanthology.org/2025.ijcnlp-long.36.pdf)\
 	Francois Meyer and Jan Buys\
