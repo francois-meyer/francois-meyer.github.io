@@ -13,7 +13,7 @@ The aim of this project is to develop a web-based interface for analysing and co
 
 <h2>Resources</h2>
 
-* [Week 1 slides: Introducing the project](https://drive.google.com/file/d/1rrVcFaYYiulBuLeHB0Pckffyk4HaGpFd/view?usp=sharing)
+* [Week 1 slides: Introducing the project](https://drive.google.com/file/d/1pYvApuJGAedVSeoI3s7Zb9cJkjSQH9Z-/view?usp=sharing)
 * [Hugging Face Tokenizers library](https://huggingface.co/docs/tokenizers/index)
 * [Tokenizers example](https://drive.google.com/file/d/1L3XUcZo3BUm5MHoWjaw3ZcNDe8RG2pnb/view?usp=sharing)
 
@@ -45,5 +45,5 @@ The following academic papers describe metrics used by researchers to analyse to
   Email: francois.meyer@uct.ac.za \
   Office: Room 314.10, Computer Science Building
 
-* Tutor: Tadi Nyakonda \
+* Tutor: Tadiwa Nyakonda \
   Email: NYKTAD002@myuct.ac.za

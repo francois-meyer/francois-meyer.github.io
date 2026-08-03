@@ -46,7 +46,10 @@ permalink: /publications/
 
 * 	[NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages](https://aclanthology.org/2024.lrec-main.1071.pdf)\
 	Francois Meyer, Haiyue Song, Abhisek Chakrabarty, Jan Buys, Raj Dabre and Hideki Tanaka\
-	LREC-COLING 2024 [\[data\]](https://github.com/francois-meyer/nglueni)
+	LREC-COLING 2024 [\[models\]](https://huggingface.co/collections/uctnlp/nglueni), [\[data\]](https://github.com/francois-meyer/nglueni)
+	
+	 
+
 
 * 	[SubMerge: Merging Equivalent Subword Tokenizations for Subword Regularized Models in Neural Machine Translation](https://aclanthology.org/2024.eamt-1.15.pdf) \
 	Haiyue Song, Francois Meyer, Raj Dabre, Hideki Tanaka, Chenhui Chu, Sadao Kurohashi\

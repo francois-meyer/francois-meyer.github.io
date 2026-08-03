@@ -20,7 +20,7 @@ I completed my PhD under [Jan Buys](http://www.janmbuys.com/) at the University 
 
 <h2>News</h2>
 
-<b>June 2026</b>  MzansiLM has featured on a few news websites. Our interview with [UCT News](https://www.news.uct.ac.za/article/-2026-05-04-uct-researchers-develop-ai-model-for-11-south-african-languages) gives a good overview of the work.
+<b>June 2026</b>  MzansiLM has featured on a few news websites. Our interview with [UCT News](https://www.news.uct.ac.za/article/-2026-05-04-uct-researchers-develop-ai-model-for-11-south-african-languages) gives a good overview of the work. Our model and dataset is available on Huggingface: [🤗 MzansiLM & MzansiText](https://huggingface.co/collections/uctnlp/mzansilm-and-mzansitext).
 
 <b>May 2026</b> My masters student, Anri Lombard, attended LREC in Spain to present [MzansiText and MzansiLM: An Open Corpus and Decoder-Only Language Model for South African Languages](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.109.pdf).
 
