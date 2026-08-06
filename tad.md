@@ -16,13 +16,14 @@ The aim of this project is to develop a web-based interface for analysing and co
 * [Week 1 slides: Introducing the project](https://drive.google.com/file/d/1pYvApuJGAedVSeoI3s7Zb9cJkjSQH9Z-/view?usp=sharing)
 * [Hugging Face Tokenizers library](https://huggingface.co/docs/tokenizers/index)
 * [Tokenizers example](https://drive.google.com/file/d/1L3XUcZo3BUm5MHoWjaw3ZcNDe8RG2pnb/view?usp=sharing)
+* [Week 2 slides: Data and Morphological Metrics](https://drive.google.com/file/d/1LSvqZhAg3x-YyJbgfCp2j3y4lPOEKGKV/view?usp=sharing)
 
 <h2>Datasets</h2>
 
 (Links to be provided soon.)
 
 * [**FLORES (dev set)**](https://drive.google.com/file/d/1pvF-h7-P34MsGO6hh54PrlchRBq1W1G_/view?usp=sharing) – used for efficiency metrics (token count, fertility, compression, token premium). The same 997 sentences translated into all 11 official South African languages.
-* **NCHLT** – used for linguistic metrics (morpheme boundary alignment). A corpus in which linguists have manually segmented every word into morphemes.
+* [**NCHLT**](https://github.com/darthskyy/morph_segment_extension/tree/main/.words_seg_gold) – used for linguistic metrics (morpheme boundary alignment). A corpus in which linguists have manually segmented every word into morphemes.
 
 <h2>Example websites</h2>
 
