@@ -16,9 +16,13 @@ I completed my PhD under [Jan Buys](http://www.janmbuys.com/) at the University 
 
 <b> Recent Reviewing (2024/2025/2026): </b> ACL ARR, NeurIPS, COLM, BlackBoxNLP, AfricaNLP
 
-<b> Teaching (2026): </b> CSC2042S Supervised Machine Learning for 2nd years, CSC3042F Deep Learning (LSTMs and Transformers) for 3rd years, CSC1016S Java programming for 1st years, CSC4019Z Research Methods for Honours.
+<b> Teaching (2026): </b> CSC2042S Supervised Machine Learning for 2nd years, CSC3042F Deep Learning (LSTMs and Transformers) and CSC3044S (LLM Agents) for 3rd years, CSC1016S Java programming for 1st years, CSC4019Z Research Methods for Honours.
 
 <h2>News</h2>
+
+<b>September 2026</b> I will attend EMNLP in Budapest to present [The Geometry of Low-Resource Language Representations](https://arxiv.org/pdf/2608.23358) and [my submission](https://arxiv.org/pdf/2609.01151) to the BabyLM Challenge.
+
+<b>August 2026</b> Our research group is now on Huggingface: [🤗 UCT NLP](https://huggingface.co/uctnlp).
 
 <b>June 2026</b>  MzansiLM has featured on a few news websites. Our interview with [UCT News](https://www.news.uct.ac.za/article/-2026-05-04-uct-researchers-develop-ai-model-for-11-south-african-languages) gives a good overview of the work. Our model and dataset is available on Huggingface: [🤗 MzansiLM & MzansiText](https://huggingface.co/collections/uctnlp/mzansilm-and-mzansitext).
 
