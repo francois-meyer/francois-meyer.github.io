@@ -12,7 +12,15 @@ permalink: /publications/
 
 * 	[Subword Segmental BabyLMs: Learning to Tokenise for Sample-Efficient Pretraining](https://arxiv.org/pdf/2609.01151) \
 	Francois Meyer \
-	BabyLM challenge @ EMNLP 2026
+	BabyLM Challenge @ EMNLP 2026
+
+* [RunyaNER: Auxiliary Language Selection for Runyankore NER](https://arxiv.org/pdf/2609.37543) \
+Prosper Arineitwe Asiimwe, Francois Meyer, Jan Buys \
+Multilingual Representation Learning workshop @ EMNLP 2026
+
+* 	[MzansiText and MzansiLM: An Open Corpus and Decoder-Only Language Model for South African Languages](https://aclanthology.org/2026.lrec-1.109.pdf) \
+Anri Lombard, Simbarashe Mawere, Temi Aina, Ethan Wolff, Sbonelo Gumede, Elan Novick, Francois Meyer, Jan Buys \
+	LREC 2026
 
 * 	[BabyBabelLM: A Multilingual Benchmark of Developmentally Plausible Training Data](https://aclanthology.org/2026.eacl-long.152.pdf)\
 	Jaap Jumelet, Abdellah Fourtassi, Akari Haga, Bastian Bunzeck, Bhargav Shandilya, Diana Galvan-Sosa, Faiz Ghifari Haznitrama, Francesca Padovani, Francois Meyer, Hai Hu, Julen Etxaniz, Laurent Prevot, Linyang He, María Grandury, Mila Marcheva, Negar Foroutan, Nikitas Theodoropoulos, Pouya Sadeghi, Siyuan Song, Suchir Salhan, Susana Zhou, Yurii Paniv, Ziyin Zhang, Arianna Bisazza, Alex Warstadt, Leshem Choshen \

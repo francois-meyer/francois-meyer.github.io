@@ -20,7 +20,11 @@ I completed my PhD under [Jan Buys](http://www.janmbuys.com/) at the University 
 
 <h2>News</h2>
 
-<b>September 2026</b> I will attend EMNLP in Budapest to present [The Geometry of Low-Resource Language Representations](https://arxiv.org/pdf/2608.23358) and [my submission](https://arxiv.org/pdf/2609.01151) to the BabyLM Challenge.
+<b>October 2026</b> I will attend EMNLP in Budapest, where our research group will present three papers:
+* I'm giving an oral presentation at the main conference about
+[The Geometry of Low-Resource Language Representations](https://arxiv.org/pdf/2608.23358) (in the first Interpretability oral session on the first day).
+* I will present a poster about [my BabyLM submission](https://arxiv.org/pdf/2609.01151) at the BabyLM workshop.
+* [RunyaNER](https://arxiv.org/pdf/2609.37543), the first NER dataset for Runyankore, will be presented as a poster at the Multilingual Representation Learning workshop.
 
 <b>August 2026</b> Our research group is now on Huggingface: [🤗 UCT NLP](https://huggingface.co/uctnlp).
 
